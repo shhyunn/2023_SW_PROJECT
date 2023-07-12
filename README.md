@@ -10,4 +10,5 @@
 #1. 개발 환경 세팅
 - Flutter : android studio 설치 및 Flutter 플러그인 설치를 통해 'hello, world!' 예제 진행
 - NestJS : nodejs 기반 NestJS 새로운 프로젝트 생성 및 localhost 서버를 이용하여 실행
+  + swagger 사용 및 docker의 postgresSQL 과 연결
 - SvelteKit : nodejs 기반 SvelteKit 새로운 프로젝트 생성 및 실행, 'hello, world!' 예제 진행
